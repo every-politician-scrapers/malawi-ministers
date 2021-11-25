@@ -10,13 +10,11 @@ class MemberList
     # but some have "Name: Positition" in the name field
 
     def name
-      return raw_name.split(':').first.tidy if raw_position.empty?
-
-      raw_name
+      derived_name.delete_suffix('.')
     end
 
     def position
-      derived_position.split(/ and (?=Minister)/).flat_map do |posn|
+      derived_position.gsub(/\.$/, '').split(/ and (?=Minister)/).flat_map do |posn|
         posn.split(/ (?=Commander)/)
       end
     end
@@ -24,7 +22,13 @@ class MemberList
     private
 
     def raw_name
-      noko.css('.sppb-person-designation').text.sub('Honourable', '').tidy
+      noko.css('.sppb-person-designation').text.delete_prefix('Honourable').delete_prefix('Honorable').sub(/, ?MP/, '').tidy
+    end
+
+    def derived_name
+      return raw_name.split(':').first.tidy if raw_position.empty?
+
+      raw_name
     end
 
     def raw_position
