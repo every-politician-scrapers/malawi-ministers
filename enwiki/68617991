@@ -1,0 +1,97 @@
+{
+  "title": "Lobin C. Lowe",
+  "pageID": 68617991,
+  "categories": [
+    "Government ministers of Malawi",
+    "Living people",
+    "Date of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lobin C. Lowe is Malawi's Minister of Agriculture.",
+              "links": [
+                {
+                  "text": "Minister of Agriculture",
+                  "type": "internal",
+                  "page": "Cabinet of Malawi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lobin C. Lowe"
+                ]
+              }
+            },
+            {
+              "text": "He has been representing Lilongwe Central Constituency in the parliament since 2009.",
+              "links": [
+                {
+                  "text": "the parliament",
+                  "type": "internal",
+                  "page": "Parliament of Malawi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Malawian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Lobin Lowe",
+          "url": "https://www.bloomberg.com/profile/person/22105287",
+          "access-date": "2021-09-01",
+          "website": "Bloomberg",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Food systems transformation must include Africa’s least developed countries",
+          "url": "http://www.fao.org/africa/news/detail-news/en/c/1377741/",
+          "access-date": "2021-09-01",
+          "website": "Food and Agriculture Organization of the United Nations",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Session 7 bios",
+          "url": "https://www.un.org/ldc5/sites/www.un.org.ldc5/files/session_7_bios.pdf",
+          "url-status": "live",
+          "access-date": "1 September 2021",
+          "website": "UN",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "malawi-politician-stub"
+        }
+      ]
+    }
+  ]
+}
