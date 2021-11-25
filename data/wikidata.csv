@@ -1,1 +1,23 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q16202782,Lazarus Chakwera,Lazarus Chakwera,male,1955-04-05,11,,,Q15921529,President of Malawi,Q16202782-4cd39554-4904-0c2f-4b8b-ca67e343d2dd
+Q16214780,Saulos Chilima,Saulos Chilima,male,1973-02-12,11,,,Q4381737,Vice President of Malawi,Q16214780-e0f5de85-4725-fcb0-5754-661698870214
+Q16733055,Henry Mussa,Henry Mussa,male,,,,,Q46624711,Minister of Industry and Trade,Q16733055-3C660D42-262A-4AB5-AE1B-3F4DF61F0BD9
+Q24006698,Felix Mlusu,Felix Mlusu,male,1951-03-23,11,,,Q46624677,"Minister of Finance, Economic Planning and Development",Q24006698-4D14E6FB-7879-49D6-8ED7-81BE5CF9E9D3
+Q29982289,Grace Chiumia,Grace Chiumia,female,1977-01-01,9,,,Q46624691,"Minister of Civic Education, Culture and Community Development",Q29982289-4A2EB3F4-CBD6-4A20-811B-C41799FC6705
+Q40039690,Francis Kasaila,Francis Kasaila,male,1968-10-28,11,,,Q46624656,"Minister of Labour, Youth, Sports and Manpower Development",Q40039690-72F9CFFC-D313-4D50-8781-48B9F2393BAC
+Q45779467,Aggrey Masi,Aggrey Masi,male,,,,,Q46624434,"Minister of Natural Resources, Energy and Mining",Q45779467-9C7DBE31-EFF8-4BCD-967A-30DD87BF99DC
+Q45779916,Cecilia Chazama,Cecilia Chazama,female,1968-11-22,11,,,Q46624571,Minister of Home Affairs and Internal Security,Q45779916-41D5E2C3-71D1-40EF-96AC-D314E74253E0
+Q45780072,Clement Mukumbwa,Clement Mukumbwa,male,,,,,Q46624605,"Deputy Minister of Gender, Children, Disability and Social Welfare",Q45780072-3F787950-75DB-4622-BDB6-A761CB52402F
+Q45780387,Emmanuel Fabiano,Emmanuel Fabiano,male,,,,,Q18204379,Minister of Foreign Affairs,Q45780387-9D0646CD-3589-4855-B6D8-7F72E470376A
+Q45780744,Everton Chimulirenji,Everton Chimulirenji,male,,,,,Q46624637,Deputy Minister of Defence,Q45780744-79A7A80A-816C-4B7A-ADCE-31C8DD4B58DB
+Q45781339,Jappie Mhango,Jappie Mhango,male,,,,,Q46624726,Ministry of Transport and Public Works,Q45781339-9D4920F9-694B-4F77-83CC-BD04403CB64A
+Q45781398,Joseph Mwanamvekha,Joseph Mwanamvekha,male,,,,,Q46624756,"Minister of Agriculture, Irrigation and Water Development",Q45781398-6AD34187-0DB9-4A70-B55C-B9C229700639
+Q46622996,Samuel Batson Tembenu,Samuel Batson Tembenu,male,,,,,Q46624811,Minister of Justice and Constitutional Affairs,Q46622996-EA6A41D5-1E01-41BD-88FB-CC4A1B7D21A3
+Q46623105,Charles Mhango,Charles Mhango,male,,,,,Q46624583,Attorney General,Q46623105-6CFE56EF-570A-45E5-9496-B0614226239C
+Q46623184,Bright Msaka,Bright Msaka,male,,,,,Q46624549,"Minister of Education, Science and Technology",Q46623184-DD637E45-F40C-415E-9447-04220BC3F4DD
+Q4767130,Anna Kachikho,Anna Kachikho,female,1955-04-17,11,,,Q46624514,"Minister of Lands, Housing and Urban Development",Q4767130-4ABD6165-5217-4B16-A2DB-583C5F40959D
+Q4823200,Austin Muluzi,Austin Muluzi,male,1978-08-06,11,,,Q46624532,Minister of Health and Population,Q4823200-FE23C4B0-4466-4971-926E-61F3718B3AFE
+Q6170933,Jean Kalilani,Jean Kalilani,female,1947-01-01,9,,,Q46624742,"Minister of Gender, Children, Disability and Social Welfare",Q6170933-098D3526-8047-4CA1-AB5F-24EFEC67BF55
+Q6429058,Kondwani Nakhumwa,Kondwani Nakhumwa,male,1978-01-01,9,,,Q46624772,Minister of Local Government and Rural Development,Q6429058-9702AAA3-4790-40C0-B0B1-43F9236FF8BA
+Q7025283,Nicholas Dausi,Nicholas Dausi,male,,,,,Q46624787,Minister of Information and Communications Technology,Q7025283-F54B4FEC-39F1-4FAE-8A3F-30F557A48113
+Q7176020,Peter Mutharika,Peter Mutharika,male,1940-07-18,11,,,Q46627805,Minister of Defence,Q7176020-ba32715f-46f1-66f3-9687-1cb369ed20da
