@@ -149,27 +149,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "30em"
-          ],
-          "template": "reflist"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "radio-bio-stub"
-        },
-        {
-          "template": "malawi-bio-stub"
-        }
-      ]
     }
   ]
 }
