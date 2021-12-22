@@ -18,20 +18,11 @@
         {
           "sentences": [
             {
-              "text": "Felix Mlusu (born 23 March 1951) is a Malawian Chartered Insurer and financial services executive currently serving as Minister of Finance in the Government of the Republic of Malawi.",
+              "text": "Felix Mlusu (born 23 March 1951) is a Malawian financial services executive currently serving as Minister of Finance in the Government of the Republic of Malawi.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Malawian"
-                },
-                {
-                  "text": "Chartered",
-                  "type": "internal",
-                  "page": "Chartered (professional)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Insurer"
                 },
                 {
                   "text": "financial",
@@ -65,8 +56,16 @@
               }
             },
             {
-              "text": "He was Managing Director and Chief Executive Officer of NICO Public Limited Company from 1994 to 31st December 2016.",
+              "text": "He was Managing Director and Group Chief Executive Officer of NICO Public Limited Company from 1994 to 31st December 2016.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Managing Director"
+                },
+                {
+                  "type": "internal",
+                  "page": "Group Chief Executive Officer"
+                },
                 {
                   "type": "internal",
                   "page": "Public Limited Company"
@@ -147,7 +146,7 @@
               ]
             },
             {
-              "text": "The company operates in six countries: Malawi, Tanzania, Uganda, Zambia, Zimbabwe and Mozambique.",
+              "text": "The company operates in five countries: Malawi, Tanzania, Uganda, Zambia, and Mozambique.",
               "links": [
                 {
                   "type": "internal",
@@ -164,10 +163,6 @@
                 {
                   "type": "internal",
                   "page": "Zambia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Zimbabwe"
                 },
                 {
                   "type": "internal",

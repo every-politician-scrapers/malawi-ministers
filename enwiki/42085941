@@ -308,7 +308,7 @@
             "text": "February 12, 1973"
           },
           "party": {
-            "text": "Tonse Alliance United Transformation Movement (UTM)",
+            "text": "Tonse Alliance\nUnited Transformation Movement (UTM)",
             "links": [
               {
                 "type": "internal",
@@ -327,7 +327,7 @@
             ]
           },
           "alma_mater": {
-            "text": "University of Malawi University of Bolton",
+            "text": "University of Malawi\nUniversity of Bolton",
             "links": [
               {
                 "type": "internal",
@@ -343,7 +343,7 @@
             "text": "Mary Chilima"
           },
           "children": {
-            "text": "Sean Chilima Elizabeth Chilima"
+            "text": "Sean Chilima\nElizabeth Chilima"
           }
         }
       ],
