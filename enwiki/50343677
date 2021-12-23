@@ -77,7 +77,7 @@
         {
           "sentences": [
             {
-              "text": "NICO Public Limited Company is a multinational financial services holding company involved in the business of general insurance, life insurance, pension administration, banking, mortgages, lease finance, asset management and information systems.",
+              "text": "NICO Public Limited Company is a multinational financial services conglomerate involved in the business of general insurance, life insurance, pension administration, banking, mortgages, lease finance, asset management and information systems.",
               "links": [
                 {
                   "type": "internal",
@@ -94,14 +94,9 @@
                   "page": "financial services"
                 },
                 {
-                  "text": "holding",
+                  "text": "conglomerate",
                   "type": "internal",
-                  "page": "holding company"
-                },
-                {
-                  "text": "company",
-                  "type": "internal",
-                  "page": "company"
+                  "page": "Conglomerate (company)"
                 },
                 {
                   "text": "general insurance",
