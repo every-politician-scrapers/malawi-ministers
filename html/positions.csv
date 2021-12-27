@@ -1,9 +1,11 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q15921529,President of Malawi,Q1020,Q1020,Q4381737,Q854910,1966-07-06,,Q4381726,,President of Malawi
 Q4381737,Vice President of Malawi,Q1020,Q1020,,,,,,,Vice-President of Malawi
 Q46624756,Minister of Agriculture,Q1020,Q1020,,,,,,,
 Q109729459,Minister of Civic Education and National Unity,Q1020,Q1020,,,,,,,
 Q46624691,"Minister of Civic Education, Culture and Community Development",Q1020,Q1020,,,,,,,
 Q46627805,Minister of Defence,Q1020,Q1020,,,,,,,
+Q109729390,Minister of Economic Planning and Development,Q1020,Q1020,,,,,,,
 Q109729573,Minister of Education,Q1020,Q1020,,,,,,,
 Q46624549,"Minister of Education, Science and Technology",Q1020,Q1020,,,,,,,
 Q46624677,"Minister of Finance, Economic Planning and Development",Q1020,Q1020,,,,,,,Minister of Finance (Malawi)
