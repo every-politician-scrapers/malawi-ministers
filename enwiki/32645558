@@ -101,50 +101,6 @@
           "description": "Malawian politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.apnacafrica.org/Contact/contactus_e.htm",
-          "title": "Archived copy",
-          "accessdate": "August 5, 2011",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20111005152037/http://www.apnacafrica.org/Contact/contactus_e.htm",
-          "archivedate": "October 5, 2011",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.malawivoice.com/latest-news/john-tembo-now-wants-third-term/",
-          "title": "Archived copy",
-          "accessdate": "August 5, 2011",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20110130211456/http://www.malawivoice.com/latest-news/john-tembo-now-wants-third-term/",
-          "archivedate": "January 30, 2011",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.banja.org.mw/hope.htm",
-          "title": "Archived copy",
-          "accessdate": "August 5, 2011",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20090826162838/http://www.banja.org.mw/hope.htm",
-          "archivedate": "August 26, 2009",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
