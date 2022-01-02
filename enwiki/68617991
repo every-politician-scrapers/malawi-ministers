@@ -48,34 +48,6 @@
           "description": "Malawian politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "title": "Lobin Lowe",
-          "url": "https://www.bloomberg.com/profile/person/22105287",
-          "access-date": "2021-09-01",
-          "website": "Bloomberg",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Food systems transformation must include Africa’s least developed countries",
-          "url": "http://www.fao.org/africa/news/detail-news/en/c/1377741/",
-          "access-date": "2021-09-01",
-          "website": "Food and Agriculture Organization of the United Nations",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Session 7 bios",
-          "url": "https://www.un.org/ldc5/sites/www.un.org.ldc5/files/session_7_bios.pdf",
-          "url-status": "live",
-          "access-date": "1 September 2021",
-          "website": "UN",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
