@@ -4,6 +4,18 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
+# Rather than parsing lots of awkward layout, standardise it here
+class FixLayout < Scraped::Response::Decorator
+  def body
+    Nokogiri::HTML(super).tap do |doc|
+      doc.css('.sppb-person-designation').each do |node|
+        node.content = node.content.gsub(', Minister', ': Minister')
+      end
+    end.to_s
+  end
+end
+
+
 class MemberList
   class Member
     # Most members have separate divs,
@@ -43,6 +55,8 @@ class MemberList
   end
 
   class Members
+    decorator FixLayout
+
     def member_container
       noko.css('.sppb-person-information-wrap')
     end
