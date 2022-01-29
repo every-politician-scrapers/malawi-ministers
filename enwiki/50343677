@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Felix Mlusu (born 23 March 1951) is a Malawian financial services executive currently serving as Minister of Finance in the Government of the Republic of Malawi.",
+              "text": "Felix Mlusu (born 23 March 1951) is a Malawian financial services executive who served as Minister of Finance in the Government of the Republic of Malawi.",
               "links": [
                 {
                   "type": "internal",
@@ -56,8 +56,13 @@
               }
             },
             {
-              "text": "He was Managing Director and Group Chief Executive Officer of NICO Public Limited Company from 1994 to 31 December 2016.",
+              "text": "Prior to his role in the Government he was Managing Director and Group Chief Executive Officer of NICO Public Limited Company from 1994 to 31 December 2016.",
               "links": [
+                {
+                  "text": "Government",
+                  "type": "internal",
+                  "page": "Government of Malawi"
+                },
                 {
                   "type": "internal",
                   "page": "Managing Director"
@@ -279,6 +284,9 @@
           "term_start": {
             "text": "29 June 2020"
           },
+          "term_end": {
+            "text": "24 January 2022"
+          },
           "president": {
             "text": "Lazarus Chakwera",
             "links": [
@@ -294,6 +302,15 @@
               {
                 "type": "internal",
                 "page": "Joseph Mwanamvekha"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Sosten Gwengwe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sosten Gwengwe"
               }
             ]
           },
