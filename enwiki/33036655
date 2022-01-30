@@ -1,0 +1,41 @@
+{
+  "title": "John Bande",
+  "pageID": 33036655,
+  "categories": [
+    "Government ministers of Malawi",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "John F. Bande is the current Minister of Trade and Industry of Malawi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malawi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "John F. Bande"
+                ]
+              }
+            },
+            {
+              "text": "He is the former Minister of Lands, Housing and Trade."
+            },
+            {
+              "text": "In 2006 he served as the Deputy Minister of Information & Civic Education."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
