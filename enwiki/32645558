@@ -17,21 +17,18 @@
         {
           "sentences": [
             {
-              "text": "Nancy Tembo is a Malawian politician.",
-              "formatting": {
-                "bold": [
-                  "Nancy Tembo"
-                ]
-              }
-            },
-            {
-              "text": "She serves as Minister of Forestry and Natural Resources in the Cabinet of Malawi.",
+              "text": "Nancy Tembo is a Malawian politician and currently serves as Minister of Foreign Affairs in the Malawi Government (Cabinet of Malawi).",
               "links": [
                 {
                   "type": "internal",
                   "page": "Cabinet of Malawi"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Nancy Tembo"
+                ]
+              }
             },
             {
               "text": "She is also a Member of Parliament (MP) representing Lilongwe City South West constituency in the National Assembly of the Republic of Malawi.",
@@ -45,9 +42,13 @@
                   "page": "National Assembly of the Republic of Malawi"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "She ran as an independent candidate after the bungled 2018 Malawi Congress Party primary elections and went on to secure a landslide victory in the 2019 Malawian general election.",
+              "text": "She ran as an independent candidate after a bungled 2018 Malawi Congress Party primary election and went on to secure a landslide victory in the 2019 Malawian general election.",
               "links": [
                 {
                   "type": "internal",
@@ -61,7 +62,7 @@
               ]
             },
             {
-              "text": "She was the voice of the MCP (then the main opposition) during the Bingu wa Mutharika Presidency (2009-2012)."
+              "text": "She was the voice of the MCP (then the main opposition party) during the Bingu wa Mutharika Presidency (2009-2012)."
             },
             {
               "text": "She was detained and badly beaten along with protest leaders such as Billy Mayaya and Undule Mwakasungula during the infamous Protests on July 20, 2011 where 22 people were killed by security forces.",
@@ -80,9 +81,35 @@
                   "page": "2011 Malawian protests"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During her first term as Member of Parliament (2004-2009), Nancy was Shadow Minister of Education, she chaired The African Parliamentarians Network Against Corruption (APNAC)-Malawi, and served on the Public Accounts Committee and Parliamentary Committee on Health (where she chaired the Parliamentary SubCommittee on reproduction)."
             },
             {
-              "text": "She was the chairperson of the Parliamentary SubCommittee on reproduction and she also chaired The African Parliamentarians Network Against Corruption (APNAC)-Malawi during her first term as Member of Parliament (2004-2009)."
+              "text": "During her second term as MP, she served on the Commonwealth Parliamentary Association (CPA) and Legal Affairs Committee."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2019 whilst in Parliament, Nancy exposed a dubious and unprocedural 'sale' of a public school land (Livimbo Primary School) in her constituency to private commercial interests."
+            },
+            {
+              "text": "By then, the new 'owners' had already constructed industrial warehouses on the school grounds."
+            },
+            {
+              "text": "She took the Ministry of Lands officials to task seeking an explanation of this sad state of affairs."
+            },
+            {
+              "text": "Eventually the warehouses were demolished by the state and the constituency development committee built a brick wall to secured the school lands from further invasion."
+            },
+            {
+              "text": "Had the school been demolished, hundreds of vulnerable children would be left stranded."
             }
           ]
         }
@@ -92,7 +119,7 @@
           "file": "File:Nancy Tembo UNFCCC Glasgow Climate Dialogues event 01.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nancy_Tembo_UNFCCC_Glasgow_Climate_Dialogues_event_01.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nancy_Tembo_UNFCCC_Glasgow_Climate_Dialogues_event_01.jpg",
-          "caption": "Nancy Tembo serving as Minister of Forestry and Natural Resources in 2021",
+          "caption": "Nancy Tembo, serving as Malawi's Minister of Natural Resources & Climate Change, speaking at the United Nations COP26 Climate Change Conference in 2021",
           "links": []
         }
       ],

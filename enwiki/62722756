@@ -83,17 +83,42 @@
             ]
           },
           "office": {
-            "text": "Ex Minister of Foreign Affairs",
+            "text": "Minister of Natural Resources",
             "links": [
               {
-                "text": "Ex Minister of Foreign Affairs",
+                "text": "Minister of Natural Resources",
                 "type": "internal",
                 "page": "Cabinet of Malawi"
               }
             ]
           },
           "term_start": {
-            "text": "8 July 2020 and was appointed as Ministry of Natural Resources on 27th of January 2022"
+            "text": "27 January 2022"
+          },
+          "predecessor": {
+            "text": "Nancy Tembo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nancy Tembo"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Cabinet of Malawi"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "8 July 2020"
+          },
+          "term_end1": {
+            "text": "27 January 2022"
           },
           "president": {
             "text": "Lazarus Chakwera",
