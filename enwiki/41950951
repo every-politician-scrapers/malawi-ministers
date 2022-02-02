@@ -20,12 +20,15 @@
         {
           "sentences": [
             {
-              "text": "Sosten Gwengwe (born 20 May 1977) is a Malawian politician currently serving as Minister of Trade of the Republic of Malawi since June 2020.",
+              "text": "Sosten Gwengwe (born 20 May 1977) is a Malawian politician currently serving as Minister of Finance and Economic Affairs of the Republic of Malawi since January 30 2022.",
               "formatting": {
                 "bold": [
                   "Sosten Gwengwe"
                 ]
               }
+            },
+            {
+              "text": "He previously served as Minister of Trade from June 2020 until his appointment as Finance and Economic Affairs Minister."
             },
             {
               "text": "He was elected to Parliament in 2009 as a member of the Malawi Congress Party, but announced on August 31, 2011 that he was switching to the Democratic Progressive Party because the MCP \"had nothing to offer to the country\" and the DPP under President Bingu wa Mutharika had a \"clear vision of developing the country\".",
@@ -79,7 +82,7 @@
             ]
           },
           "name": {
-            "text": "Sosten Gwengwe"
+            "text": "Sosten Gwengwe, M.P."
           },
           "image": {
             "text": "Sosten Gwengwe 2013 (cropped).jpg"
@@ -88,17 +91,17 @@
             "text": "Gwengwe in 2013"
           },
           "office": {
-            "text": "Minister of Trade",
+            "text": "Minister of Finance & Economic Affairs",
             "links": [
               {
-                "text": "Minister of Trade",
+                "text": "Minister of Finance & Economic Affairs",
                 "type": "internal",
                 "page": "Cabinet of Malawi"
               }
             ]
           },
           "term_start": {
-            "text": "28 June 2020"
+            "text": "30 January 2022"
           },
           "president": {
             "text": "Lazarus Chakwera",
@@ -110,6 +113,40 @@
             ]
           },
           "predecessor": {
+            "text": "Felix Mlusu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Felix Mlusu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Trade",
+            "links": [
+              {
+                "text": "Minister of Trade",
+                "type": "internal",
+                "page": "Cabinet of Malawi"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "28 June 2020"
+          },
+          "term_end2": {
+            "text": "26 January 2022"
+          },
+          "president2": {
+            "text": "Lazarus Chakwera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lazarus Chakwera"
+              }
+            ]
+          },
+          "predecessor2": {
             "text": "Salim Bagus",
             "links": [
               {
@@ -118,15 +155,15 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "2012",
             "number": 2012
           },
-          "term_end2": {
+          "term_end3": {
             "text": "2014",
             "number": 2014
           },
-          "president2": {
+          "president3": {
             "text": "Joyce Banda",
             "links": [
               {
@@ -135,7 +172,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Member of Parliament Lilongwe Msozi North",
             "links": [
               {
@@ -144,11 +181,11 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "2017",
             "number": 2017
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Highton Jiya",
             "links": [
               {
@@ -157,7 +194,7 @@
               }
             ]
           },
-          "office4": {
+          "office5": {
             "text": "Member of Parliament Dedza Central",
             "links": [
               {
@@ -166,11 +203,11 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start5": {
             "text": "2009",
             "number": 2009
           },
-          "term_end4": {
+          "term_end5": {
             "text": "2014",
             "number": 2014
           },
