@@ -22,7 +22,10 @@ class MemberList
     # but some have "Name: Positition" in the name field
 
     def name
-      derived_name.delete_suffix('.')
+      Name.new(
+        full: derived_name,
+        suffixes: ['M.P'],
+      ).short.delete_suffix(',').delete_suffix('.')
     end
 
     def position
