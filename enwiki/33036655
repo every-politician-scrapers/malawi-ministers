@@ -14,7 +14,7 @@
         {
           "sentences": [
             {
-              "text": "John F. Bande is the current Minister of Trade and Industry of Malawi.",
+              "text": "Honorable John F. Bande is the current Deputy Minister of Water and Sanitation in Malawi.",
               "links": [
                 {
                   "type": "internal",
@@ -23,12 +23,12 @@
               ],
               "formatting": {
                 "bold": [
-                  "John F. Bande"
+                  "Honorable John F. Bande"
                 ]
               }
             },
             {
-              "text": "He is the former Minister of Lands, Housing and Trade."
+              "text": "He is the Member of Parliament for Blantyre City East."
             },
             {
               "text": "In 2006 he served as the Deputy Minister of Information & Civic Education."
