@@ -1,268 +1,30 @@
 {
-  "title": "Sosten Gwengwe",
-  "pageID": 41950951,
-  "categories": [
-    "1977 births",
-    "Living people",
-    "Malawian accountants",
-    "Government ministers of Malawi",
-    "University of Malawi alumni",
-    "Alumni of Oxford Brookes University",
-    "Malawi Congress Party politicians",
-    "Democratic Progressive Party (Malawi) politicians",
-    "People's Party (Malawi) politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sosten Gwengwe (born 20 May 1977) is a Malawian politician currently serving as Minister of Finance and Economic Affairs of the Republic of Malawi since January 30 2022.",
-              "formatting": {
-                "bold": [
-                  "Sosten Gwengwe"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Minister of Trade from June 2020 until his appointment as Finance and Economic Affairs Minister."
-            },
-            {
-              "text": "He was elected to Parliament in 2009 as a member of the Malawi Congress Party, but announced on August 31, 2011 that he was switching to the Democratic Progressive Party because the MCP \"had nothing to offer to the country\" and the DPP under President Bingu wa Mutharika had a \"clear vision of developing the country\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Malawi Congress Party"
-                },
-                {
-                  "text": "Democratic Progressive Party",
-                  "type": "internal",
-                  "page": "Democratic Progressive Party (Malawi)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bingu wa Mutharika"
-                }
-              ]
-            },
-            {
-              "text": "Following the death of President Mutharika, he joined the People's Party.",
-              "links": [
-                {
-                  "text": "People's Party",
-                  "type": "internal",
-                  "page": "People's Party (Malawi)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1977",
-          "month": "5",
-          "day": "20",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "Honorable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Honorable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Sosten Gwengwe, M.P."
-          },
-          "image": {
-            "text": "Sosten Gwengwe 2013 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Gwengwe in 2013"
-          },
-          "office": {
-            "text": "Minister of Finance & Economic Affairs",
-            "links": [
-              {
-                "text": "Minister of Finance & Economic Affairs",
-                "type": "internal",
-                "page": "Cabinet of Malawi"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "30 January 2022"
-          },
-          "president": {
-            "text": "Lazarus Chakwera",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lazarus Chakwera"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Felix Mlusu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Felix Mlusu"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Trade",
-            "links": [
-              {
-                "text": "Minister of Trade",
-                "type": "internal",
-                "page": "Cabinet of Malawi"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "28 June 2020"
-          },
-          "term_end2": {
-            "text": "26 January 2022"
-          },
-          "president2": {
-            "text": "Lazarus Chakwera",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lazarus Chakwera"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Salim Bagus",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Salim Bagus"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2012",
-            "number": 2012
-          },
-          "term_end3": {
-            "text": "2014",
-            "number": 2014
-          },
-          "president3": {
-            "text": "Joyce Banda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joyce Banda"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of Parliament Lilongwe Msozi North",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "2017",
-            "number": 2017
-          },
-          "predecessor4": {
-            "text": "Highton Jiya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Highton Jiya"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of Parliament Dedza Central",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2009",
-            "number": 2009
-          },
-          "term_end5": {
-            "text": "2014",
-            "number": 2014
-          },
-          "birth_date": {
-            "text": "May 20, 1977"
-          },
-          "nationality": {
-            "text": "Malawian",
-            "links": [
-              {
-                "text": "Malawian",
-                "type": "internal",
-                "page": "Malawi"
-              }
-            ]
-          },
-          "party": {
-            "text": "Malawi Congress Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malawi Congress Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Enelles"
-          },
-          "alma_mater": {
-            "text": "Malawi Polytechnic (B.Acc) OBU (MBA)",
-            "links": [
-              {
-                "text": "Malawi Polytechnic",
-                "type": "internal",
-                "page": "University of Malawi"
-              },
-              {
-                "text": "OBU",
-                "type": "internal",
-                "page": "Oxford Brookes University"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Management accountant",
-            "links": [
-              {
-                "text": "Management accountant",
-                "type": "internal",
-                "page": "Chartered Institute of Management Accountants"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "Honorable",
+  "name": "Sosten Gwengwe, M.P.",
+  "image": "Sosten Gwengwe 2013 (cropped).jpg",
+  "caption": "Gwengwe in 2013",
+  "office": "Minister of Finance & Economic Affairs",
+  "term_start": "30 January 2022",
+  "president": "Lazarus Chakwera",
+  "predecessor": "Felix Mlusu",
+  "office2": "Minister of Trade",
+  "term_start2": "28 June 2020",
+  "term_end2": "26 January 2022",
+  "president2": "Lazarus Chakwera",
+  "predecessor2": "Salim Bagus",
+  "term_start3": "2012",
+  "term_end3": "2014",
+  "president3": "Joyce Banda",
+  "office4": "Member of Parliament Lilongwe Msozi North",
+  "term_start4": "2017",
+  "predecessor4": "Highton Jiya",
+  "office5": "Member of Parliament Dedza Central",
+  "term_start5": "2009",
+  "term_end5": "2014",
+  "birth_date": "May 20, 1977",
+  "nationality": "Malawian",
+  "party": "Malawi Congress Party",
+  "spouse": "Enelles",
+  "alma_mater": "Malawi Polytechnic (B.Acc) OBU (MBA)",
+  "profession": "Management accountant"
 }
