@@ -1,181 +1,27 @@
 {
-  "title": "Patricia Kaliati",
-  "pageID": 31092672,
-  "categories": [
-    "1967 births",
-    "Living people",
-    "People from Mulanje District",
-    "Malawian Roman Catholics",
-    "United Democratic Front (Malawi) politicians",
-    "Democratic Progressive Party (Malawi) politicians",
-    "Government ministers of Malawi",
-    "Members of the National Assembly of Malawi",
-    "Women government ministers of Malawi"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Patricia Annie Kaliati is a Malawian politician and former educator who has held various ministerial positions in the Cabinet of Malawi.",
-              "links": [
-                {
-                  "text": "Malawian",
-                  "type": "internal",
-                  "page": "Malawi"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cabinet of Malawi"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Patricia Annie Kaliati"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Patricia Kaliati MP"
-          },
-          "office": {
-            "text": "Former Member of Parliament Mulanje West"
-          },
-          "term_start": {
-            "text": "19 May 1999"
-          },
-          "term_end": {
-            "text": "23 May 2019"
-          },
-          "successor": {
-            "text": "Yusuf Witness Ntheda\n                   = Minister of Information and Tourism"
-          },
-          "president1": {
-            "text": "Bingu wa Mutharika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bingu wa Mutharika"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "May 2007"
-          },
-          "term_end1": {
-            "text": "May 2009"
-          },
-          "office2": {
-            "text": "Minister of Gender, Children and Community Development"
-          },
-          "president2": {
-            "text": "Bingu wa Mutharika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bingu wa Mutharika"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "15 June 2009"
-          },
-          "term_end2": {
-            "text": "9 August 2010"
-          },
-          "office3": {
-            "text": "Minister of Information and Civic Education"
-          },
-          "president3": {
-            "text": "Bingu wa Mutharika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bingu wa Mutharika"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "11 September 2011"
-          },
-          "term_end3": {
-            "text": "10 April 2012"
-          },
-          "successor3": {
-            "text": "Moses Kunkuyu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Moses Kunkuyu"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1967",
-            "number": 1967
-          },
-          "nationality": {
-            "text": "Malawian"
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          },
-          "alma_mater": {
-            "text": "Bembeke Teachers College"
-          },
-          "occupation": {
-            "text": "Politician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Politician"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Teacher",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teacher"
-              }
-            ]
-          },
-          "religion": {
-            "text": "Roman Catholic",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Roman Catholic"
-              }
-            ]
-          },
-          "party": {
-            "text": "Democratic Progressive Party (2005-now) United Democratic Front (pre-2005)",
-            "links": [
-              {
-                "text": "Democratic Progressive Party",
-                "type": "internal",
-                "page": "Democratic Progressive Party (Malawi)"
-              },
-              {
-                "text": "United Democratic Front",
-                "type": "internal",
-                "page": "United Democratic Front (Malawi)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Patricia Kaliati MP",
+  "office": "Former Member of Parliament Mulanje West",
+  "term_start": "19 May 1999",
+  "term_end": "23 May 2019",
+  "successor": "Yusuf Witness Ntheda\n                   = Minister of Information and Tourism",
+  "president1": "Bingu wa Mutharika",
+  "term_start1": "May 2007",
+  "term_end1": "May 2009",
+  "office2": "Minister of Gender, Children and Community Development",
+  "president2": "Bingu wa Mutharika",
+  "term_start2": "15 June 2009",
+  "term_end2": "9 August 2010",
+  "office3": "Minister of Information and Civic Education",
+  "president3": "Bingu wa Mutharika",
+  "term_start3": "11 September 2011",
+  "term_end3": "10 April 2012",
+  "successor3": "Moses Kunkuyu",
+  "birth_date": "1967",
+  "nationality": "Malawian",
+  "children": "4",
+  "alma_mater": "Bembeke Teachers College",
+  "occupation": "Politician",
+  "profession": "Teacher",
+  "religion": "Roman Catholic",
+  "party": "Democratic Progressive Party (2005-now) United Democratic Front (pre-2005)"
 }
