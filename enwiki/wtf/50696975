@@ -1,0 +1,175 @@
+{
+  "title": "Gospel Kazako",
+  "pageID": 50696975,
+  "categories": [
+    "1968 births",
+    "Malawian chief executives",
+    "Malawian poets",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gospel Kazako (born 29 December 1968) is a Malawian entrepreneur who in 2005 founded the Zodiak Broadcasting Station, the most popular radio station in Malawi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zodiak Broadcasting Station"
+                },
+                {
+                  "type": "internal",
+                  "page": "Malawi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gospel Kazako"
+                ]
+              }
+            },
+            {
+              "text": "He is also known as a poet."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2020 Gospel Kazako was appointed as Minister of Information and Government spokesperson by the newly elected Malawian President Lazarus Chakwera.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lazarus Chakwera"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Gospel Kazako was brought up in the southern Malawian town of Zomba, the eldest of eight children whose father was a watchman.",
+              "links": [
+                {
+                  "text": "Zomba",
+                  "type": "internal",
+                  "page": "Zomba, Malawi"
+                }
+              ]
+            },
+            {
+              "text": "He attended H.H.I. Secondary School in Blantyre until 1990."
+            },
+            {
+              "text": "After obtaining a diploma in journalism, for seven years he worked at the state-owned Malawi Broadcasting Corporation (MBC), before leaving to form his own company to record music, soundtracks and adverts for other radio stations.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malawi Broadcasting Corporation"
+                }
+              ]
+            },
+            {
+              "text": "Finally, after several attempts to obtain a licence, he opened Zodiak Broadcasting Station (ZBS) in 2005."
+            },
+            {
+              "text": "Zodiak Broadcasting Station currently has over 25 transmitting sites and covers the whole of Malawi."
+            },
+            {
+              "text": "The station was awarded a licence to broadcast TV in 2012."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Broadcasting entrepreneur, Malawian Minister of Information",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://mwnation.com/gospel-kazako-he-has-not-changed/",
+          "website": "The Nation online",
+          "date": "23 February 2014",
+          "title": "Gospel Kazako: He has not changed",
+          "first1": "Adamson",
+          "last1": "Muula",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.faceofmalawi.com/2012/07/25/zodiak-broadcasting-station-gets-tv-license/",
+          "title": "Zodiak Broadcasting Station gets TV License",
+          "website": "Face of Malawi online news",
+          "date": "25 July 2012",
+          "access-date": "Nov 15, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://africanmillionaire.net/2011/09/malawi-millionaire-broadcaster-gospe/",
+          "magazine": "African Millionaire online magazine",
+          "date": "September 21, 2011",
+          "title": "Behind the Success of Media Mogul Kazako",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-africa-14857642",
+          "title": "African Dream: Malawi's Gospel Kazako",
+          "date": "Sep 13, 2011",
+          "website": "BBC News",
+          "access-date": "Nov 15, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cnn.com/2015/02/06/africa/gospel-kazako-zodiak-malawi/index.html",
+          "title": "Video fails to kill the radio star: How to build a media empire, Malawian style",
+          "first1": "Thomas",
+          "last1": "Page",
+          "first2": "Marc",
+          "last2": "Hoeferlein",
+          "website": "CNN",
+          "date": "6 February 2015",
+          "accessdate": "Nov 15, 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "radio-bio-stub"
+        },
+        {
+          "template": "malawi-bio-stub"
+        }
+      ]
+    }
+  ]
+}
