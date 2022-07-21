@@ -59,6 +59,91 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Education Background",
+              "formatting": {
+                "bold": [
+                  "Education Background"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Gwengwe is a Chartered Management Accountant (CIMA) and has worked in both public and private sector."
+            },
+            {
+              "text": "He holds a Bachelor of Accountancy degree which he obtained from the University of Malawi (The Polytechnic).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Malawi"
+                }
+              ]
+            },
+            {
+              "text": "He is also a holder of Master of Business Administration (Finance) from Oxford Brookes University of the United Kingdom.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oxford Brookes University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Gwengwe has teaching experience after teaching various Business Management courses at London Vocational, Management and Training Business School (an Emile Wolf College) in London."
+            },
+            {
+              "text": "In Malawi, he established Dzuka Girls Secondary School, Dzuka Girls Primary School, Dzuka Private Academy, Alice Gwengwe Foundation, Sosten Gwengwe Foundation and Gwengwe Private Academy."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Political Career",
+              "formatting": {
+                "bold": [
+                  "Political Career"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Gwengwe is a member of Parliament for  for Lilongwe Msonzi North."
+            },
+            {
+              "text": "His political career started in 2009 when he was first elected as Member of Parliament for Dedza Central Constituency."
+            },
+            {
+              "text": "Gwengwe has served in the cabinet in various capacities and ministries including Ministry of Transport and Ministry of Industry and Trade."
+            },
+            {
+              "text": "He is currently serving as Minister of Finance after being promoted in a February Cabinet Reshuffle by Presidet Lazarus Chakwera."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2014, President Joyce Banda picked Gwengwe to be her running mate."
+            },
+            {
+              "text": "Unfortunately Banda lost the elections and Gwengwe failed to become the Vice President of the country"
+            }
+          ]
         }
       ],
       "templates": [
@@ -299,6 +384,35 @@
           "url-status": "dead",
           "archive-url": "https://web.archive.org/web/20140812212000/http://mwnation.com/gwengwe-speaks-political-career/",
           "archive-date": "2014-08-12",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Hon Sosten A. Gwengwe, MP – presstrust.mw",
+          "url": "https://www.presstrust.mw/hon-sosten-a-gwengwe-mp/",
+          "access-date": "2022-07-20",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Reuters",
+          "date": "2022-01-28",
+          "title": "Malawi president changes finance minister in reshuffled cabinet",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/africa/malawi-president-changes-finance-minister-reshuffled-cabinet-2022-01-28/",
+          "access-date": "2022-07-20",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2014-02-13",
+          "title": "JB picks Gwengwe as her running mate: Done deal! - Malawi Nyasa Times - News from Malawi about Malawi",
+          "url": "https://www.nyasatimes.com/jb-picks-gwengwe-as-her-running-mate-done-deal/",
+          "access-date": "2022-07-20",
+          "website": "www.nyasatimes.com",
+          "language": "en-GB",
           "template": "citation",
           "type": "web"
         }
