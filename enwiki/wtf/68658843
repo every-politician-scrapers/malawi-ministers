@@ -80,6 +80,9 @@
           "image": {
             "text": "Hon. Vera Kamtukule.jpg"
           },
+          "caption": {
+            "text": "Office Portrait of Hon. Vera Kamtukule"
+          },
           "occupation": {
             "text": "Minister of Labour"
           },
@@ -269,6 +272,12 @@
               "text": "Vera Kamtukule is married to Edson Kamtukule, together they have two daughters."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "cn"
         }
       ]
     },

@@ -100,7 +100,7 @@
             "text": "Mzimba North East",
             "links": [
               {
-                "text": " Mzimba North East",
+                "text": "Mzimba North East",
                 "type": "internal",
                 "page": "Mzimba District"
               }
@@ -149,7 +149,13 @@
               ]
             },
             {
-              "text": "From 1998 to 2000, she completed professional postgraduate training in International Development and Project Planning and Management [Brighton]]."
+              "text": "From 1998 to 2000, she completed professional postgraduate training in International Development and Project Planning and Management Brighton.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brighton"
+                }
+              ]
             }
           ]
         }
